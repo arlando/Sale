@@ -1,0 +1,60 @@
+
+
+/* ===== Primary Styles ========================================================
+   Author: Arlando Battle 2012
+   ========================================================================== */
+
+.item{
+	/*position: absolute;
+	left: 0px;
+	top: 0px;*/
+	padding:10px;
+	width: 250px;
+	margin: 5px;
+	float: left;
+	overflow: hidden;
+	position: relative;
+	background: #888;
+	color: #222;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+.price.pull-right{
+	text-align:center;
+	padding:2px;
+	background: #289DD5;
+	color: #FFF;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	border-radius: 10px;
+}
+
+.Furniture{
+	background: #E9E91F;
+}
+
+.Technology{
+	background: #2C2C2C;
+	color: #fff;
+}
+
+.Other{
+	background: #FF7EF0;
+}
+.isotope, .isotope .isotope-item {
+	-webkit-transition-duration: 0.8s;
+	-moz-transition-duration: 0.8s;
+	-ms-transition-duration: 0.8s;
+	-o-transition-duration: 0.8s;
+	transition-duration: 0.8s;
+}
+
+.isotope .isotope-item {
+	-webkit-transition-property: -webkit-transform, opacity;
+	-moz-transition-property: -moz-transform, opacity;
+	-ms-transition-property: -ms-transform, opacity;
+	-o-transition-property: top, left, opacity;
+	transition-property: transform, opacity;
+}
