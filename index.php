@@ -51,7 +51,7 @@
 
       foreach($entries as $entry){
         if($entry['gsx$sold']['$t']){
-          //echo ' sold ';
+          //If sold we display this.
           echo '<div class="item"><img src="img/sold.png">'.$entry['gsx$itemname']['$t'].'</div>';
         } else {
               echo '<div class="item ';
