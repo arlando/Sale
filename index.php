@@ -8,7 +8,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
 	<title>SALE</title>
-	<meta name="description" content="SALE Providence, RI">
+	<meta name="description" content="SALE">
 	<meta name="author" content="Arlando Battle">
 
 	<meta name="viewport" content="width=device-width">
